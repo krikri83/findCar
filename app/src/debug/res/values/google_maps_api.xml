@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=94:B0:56:FF:EA:22:B1:8D:D3:5B:86:CF:1D:71:A7:24:37:A7:08:A3%3Bfr.cnam.android.findcar.vue
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    fr.cnam.android.findcar.vue
+
+    SHA-1 certificate fingerprint:
+    94:B0:56:FF:EA:22:B1:8D:D3:5B:86:CF:1D:71:A7:24:37:A7:08:A3
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC9HGhB4ro0M00sR5YeX3HF4xcI9Nx067s</string>
+</resources>

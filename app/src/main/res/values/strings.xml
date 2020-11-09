@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FindCar</string>
+    <string name="erreur">Login and Passeword don\'t exist</string>
+    <string name="title_activity_consulter">Map</string>
+</resources>
